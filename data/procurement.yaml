@@ -2,7 +2,6 @@
 - agency: County of Sacramento
   state: CA
   type: County
-  discretionary_threshold: $5,000
   formal_threshold: $100,000
   formal_url: 'http://www.dgs.saccounty.net/capsd/Pages/County-Purchasing-Code.aspx#2.56.250'
   population: 1,418,788
@@ -210,6 +209,12 @@
   contributed_by: Kenny Cunanan
   population: 400000
   updated_at: 2015-01-15
+  agency: City of Oakland Housing Authority
+  state: CA
+  type: Housing Authority
+  formal_threshold: $100,000
+  discretionary_threshold: $2,000
+  source: http://www.oakha.org/OHADepartments/Procurement-Contract-Compliance/Documents/ProcurementPolicy.pdf 
   agency: City of Madison
   state: WI
   discretionary_threshold: $5,000
